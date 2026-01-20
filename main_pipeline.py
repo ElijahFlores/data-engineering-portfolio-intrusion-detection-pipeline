@@ -225,7 +225,7 @@ class IntrusionDetectionPipeline:
 def main():
     """Entry point for the pipeline"""
     print("\n🔐 Intrusion Detection Pipeline")
-    print("Author: Your Name | Portfolio Project\n")
+    print("Author: Elijah Alton Flores | Cybersecurity Data Engineering Portfolio Project\n")
     
     pipeline = IntrusionDetectionPipeline()
     result = pipeline.run()
@@ -237,8 +237,7 @@ def main():
         print("  2. Run visualizations:")
         print("     cd notebooks && jupyter notebook analysis.ipynb")
         print("  3. Customize detection thresholds in src/detect_anomalies.py")
-        print("  4. Add to your portfolio with screenshots and metrics")
-        print("\n💡 Tip: Share your results on LinkedIn with #DataEngineering #Cybersecurity\n")
+    
         sys.exit(0)
     else:
         print(f"\n❌ PIPELINE FAILED: {result.get('error_type', 'Unknown error')}")

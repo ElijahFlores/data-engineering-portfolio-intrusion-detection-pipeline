@@ -1,4 +1,4 @@
-# 🔐 Intrusion Detection Pipeline
+# Intrusion Detection Pipeline
 ### Batch Log Analysis & Security Threat Detection System
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
@@ -7,7 +7,7 @@
 
 ---
 
-## 📋 Project Overview
+## Project Overview
 
 A **batch ETL pipeline** that analyzes SSH authentication logs to detect cybersecurity threats. This project demonstrates data engineering fundamentals, security analysis, and automated anomaly detection using pattern recognition and threshold-based heuristics.
 
@@ -28,7 +28,7 @@ This is a **portfolio demonstration project** showcasing:
 
 ---
 
-## 🎯 Key Features
+## Key Features
 
 ### 1. **Complete ETL Pipeline**
 - **Extract**: Reads raw SSH authentication log files
@@ -49,7 +49,7 @@ This is a **portfolio demonstration project** showcasing:
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 ┌──────────────┐      ┌──────────────┐      ┌──────────────┐      ┌──────────────────┐
@@ -66,7 +66,7 @@ This is a **portfolio demonstration project** showcasing:
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Python 3.8 or higher
@@ -103,7 +103,7 @@ jupyter notebook analysis.ipynb
 
 ---
 
-## 📊 Sample Output
+## Sample Output
 
 ### Console Output
 ```
@@ -131,7 +131,7 @@ INTRUSION DETECTION ANALYSIS
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 | Component | Technology | Purpose |
 |-----------|-----------|---------|
@@ -144,7 +144,7 @@ INTRUSION DETECTION ANALYSIS
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 intrusion-detection-pipeline/
@@ -178,7 +178,7 @@ intrusion-detection-pipeline/
 
 ---
 
-## 🎓 Skills Demonstrated
+## Skills Demonstrated
 
 ### Data Engineering
 - ✅ ETL pipeline design and implementation
@@ -202,7 +202,7 @@ intrusion-detection-pipeline/
 
 ---
 
-## 🔍 Detection Algorithms
+## Detection Algorithms
 
 ### Brute Force Detection
 - Counts failed login attempts per IP address
@@ -227,7 +227,7 @@ intrusion-detection-pipeline/
 
 ---
 
-## 📈 Performance Benchmarks
+## Performance Benchmarks
 
 Tests performed on sample dataset of 5,000 log entries:
 
@@ -245,7 +245,7 @@ Tests performed on sample dataset of 5,000 log entries:
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 **Planned improvements for learning/expansion:**
 
@@ -260,7 +260,7 @@ Tests performed on sample dataset of 5,000 log entries:
 
 ---
 
-## ⚠️ Known Limitations
+## Known Limitations
 
 This project is designed for **portfolio demonstration** and has the following limitations:
 
@@ -274,7 +274,7 @@ These limitations are intentional to keep the project focused on core ETL and da
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 This is a portfolio project, but suggestions and feedback are welcome! Feel free to:
 - Open issues for bugs or improvements
@@ -283,39 +283,18 @@ This is a portfolio project, but suggestions and feedback are welcome! Feel free
 
 ---
 
-## 📧 Contact
-
-**Your Name**  
-📧 your.email@example.com  
-💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-🐱 [GitHub](https://github.com/yourusername)
-
----
-
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Inspired by enterprise SIEM systems and security operations
 - Built with modern data engineering best practices
 - Designed for educational and portfolio purposes
 - Sample data simulates realistic attack patterns based on industry research
-
----
-
-## 📚 Learning Resources
-
-If you're learning from this project, here are helpful resources:
-
-- **ETL Concepts**: "Designing Data-Intensive Applications" by Martin Kleppmann
-- **Log Analysis**: SANS Institute - Log Management guides
-- **Python Data Engineering**: "Python for Data Analysis" by Wes McKinney
-- **Cybersecurity Basics**: NIST Cybersecurity Framework
-
 ---
 
 <div align="center">
