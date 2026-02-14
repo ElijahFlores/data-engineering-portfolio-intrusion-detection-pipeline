@@ -76,8 +76,8 @@ This is a **portfolio demonstration project** showcasing:
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/yourusername/intrusion-detection-pipeline.git
-cd intrusion-detection-pipeline
+git https://github.com/ElijahFlores/data-engineering-portfolio-intrusion-detection-pipeline
+cd data-engineering-portfolio-intrusion-detection-pipeline
 ```
 
 **2. Install dependencies**
